@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "algorithm": "c",
+        "cctype": "c",
+        "array": "cpp",
+        "selection_sort.h": "c"
+    }
+}

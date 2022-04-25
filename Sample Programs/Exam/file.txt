@@ -1,0 +1,1 @@
+clrscr() is used to clear the console screen. To use this function we have to add the header file #include<conio. h> . in c programming language the clrsr() in use to clear the console window
