@@ -1,0 +1,9 @@
+{
+  "C_Cpp.errorSquiggles": "Disabled",
+  "files.associations": {
+    "*.css": "tailwindcss",
+    "*.js": "javascript",
+    "*.jsx": "javascriptreact",
+    "best-fit.h": "c"
+  }
+}

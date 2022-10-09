@@ -33,7 +33,7 @@ void main(){
     printf("\nSingly Link List Created!!!\n\n");
     printf("INSERTING NEW NODE AT END......\n");
     new=(struct node *)malloc(sizeof(struct node));
-    printf("ENter data for new node: ");
+    printf("Enter data for new node: ");
     scanf("%d",&new->data);
     new->next=NULL;
 
